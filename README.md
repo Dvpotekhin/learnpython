@@ -1,1 +1,1 @@
-# leranpython
+# learnpython
